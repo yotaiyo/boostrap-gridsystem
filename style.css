@@ -1,0 +1,63 @@
+.page {
+  width: 1024px;
+  font-family: Avenir Next;
+  margin: auto;
+}
+
+h2 {
+  font-size: 60px;
+  color: #615dd2;
+  padding-top: 20px;
+  padding-left: 50px;
+  padding-bottom: 20px;
+}
+
+.catch_image {
+  width: 1024px;
+}
+
+h1 {
+  position: absolute;
+  right: 0px;
+  top:  220px;
+  font-size: 180px;
+  color: #d8c046;
+  font-weight: lighter;
+}
+
+li {
+  list-style: none;
+  /* もう少し文字のサイズを小さくしたいけど,20px以上小さくならない */
+  font-size: 15px;
+}
+
+.container{
+  position: relative;
+}
+
+.catch_phrase  {
+  color: #615dd2;
+  padding-top: 40px;
+}
+
+.catch_phrase_right {
+  padding-left: 60px;
+}
+
+.catch_phrase_left_1 {
+  font-size: 20px;
+}
+
+.catch_phrase_left_2 {
+  margin-top: -20px;
+}
+
+.image_set {
+  padding-top: 100px;
+}
+
+.footer {
+  padding-top: 200px;
+  padding-left: 470px;
+  color: #615dd2;
+}
